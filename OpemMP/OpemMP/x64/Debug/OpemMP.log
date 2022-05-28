@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\office\FH Zwikau\SS22\MultiCore\VS_Programm\OpemMP\OpemMP\main.cpp(190,9): warning C4849: “collapse”指令中忽略 OpenMP“for”子句
+  OpemMP.vcxproj -> E:\office\FH Zwikau\SS22\MultiCore\VS_Programm\OpemMP\x64\Debug\OpemMP.exe
